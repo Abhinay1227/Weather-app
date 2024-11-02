@@ -1,0 +1,21 @@
+/* WeatherInfo.css */
+.weather-info {
+    text-align: center;
+    padding: 20px;
+ }
+ 
+ .weather-info h2 {
+    font-size: 24px;
+    color: #333;
+ }
+ 
+ .weather-info p {
+    font-size: 18px;
+    color: #555;
+ }
+ 
+ .weather-info p:first-child {
+    font-size: 36px;
+    font-weight: bold;
+ }
+ 

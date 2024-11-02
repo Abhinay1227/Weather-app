@@ -1,0 +1,19 @@
+.search-bar button {
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .search-bar button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+  }
+  
+  .search-bar button:active {
+    transform: scale(0.95);
+  }
+  
